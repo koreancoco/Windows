@@ -1,4 +1,4 @@
 # About Author
 ## His exprience
-<br> he like reverse engineering
+<br> he likes reverse engineering
 visit his [blog](https://gihub.com "koreancoco's blog")
